@@ -13,4 +13,4 @@
 |korcomp_ver(text)/korcomp_valid.txt| Validation Data |
 |korcomp_ver(text)/korcomp_train.txt | Training Data |
 
-line: Index\tOriginal_Sentence\tCompress_Sentence
+line: Index\tOriginal_Sentence\tCompress_Sentence\tCompress_Sentence_without_Bracket
